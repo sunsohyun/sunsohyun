@@ -29,7 +29,7 @@
 ---
 
 ### :망치와_곡괭이: 보유 기술 (카테고리 나눠서 하는것이 좋아보임 - 변경하기)
-![Static Badge](https://img.shields.io/badge/JAVA-DC382D?style=flag-square&logo=CoffeeScript&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flag-square&logo=Spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flag-square&logo=Spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SpringDataJPA-E34F26?style=flag-square&logo=HTML5&logoColor=white)
@@ -49,6 +49,7 @@
 - JQuery
 - Json
 - JSP/JSTL
+  
 **Collaboration & Tools**
 - Eclipse
 - Spring / SprinBoot
@@ -56,9 +57,11 @@
 - Mybatis
 - Git, GitHub
 - VsCode
+  
 **Back-End**
-- JAVA
+- ![Static Badge](https://img.shields.io/badge/JAVA-DC382D?style=flag-square&logo=CoffeeScript&logoColor=white)
 - JavaScript
+  
 **DevOps**
 - Oracle
 - MySQL
