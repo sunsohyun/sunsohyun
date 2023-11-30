@@ -29,6 +29,7 @@
 ---
 
 ### 보유 기술 (카테고리 나눠서 하는것이 좋아보임 - 변경하기)
+![Static Badge](https://img.shields.io/badge/JAVA-red?style=flag-square&logo=CoffeeScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flag-square&logo=Spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flag-square&logo=SpringBoot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redis-DC382D?style=flag-square&logo=Redis&logoColor=white)
