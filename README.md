@@ -29,12 +29,19 @@
 ---
 
 ### 보유 기술 (카테고리 나눠서 하는것이 좋아보임 - 변경하기)
-![Static Badge](https://img.shields.io/badge/JAVA-red?style=flag-square&logo=CoffeeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JAVA-DC382D?style=flag-square&logo=CoffeeScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flag-square&logo=Spring&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flag-square&logo=SpringBoot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flag-square&logo=Spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SpringDataJPA-E34F26?style=flag-square&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redis-DC382D?style=flag-square&logo=Redis&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JSP-black?style=flag-square&logo=CoffeeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JSTL-DC382D?style=flag-square)
 ![Static Badge](https://img.shields.io/badge/JQuery-0769AD?style=flag-square&logo=jQuery&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flag-square&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flag-square&logo=CSS3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flag-square&logo=JavaScript&logoColor=Black)
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flag-square&logo=MySQL&logoColor=Black)
+![Static Badge](https://img.shields.io/badge/Oracle-F80000?style=flag-square&logo=Oracle&logoColor=white)
 
 * Java
 * Spring
