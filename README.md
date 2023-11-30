@@ -33,6 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flag-square&logo=SpringBoot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redis-DC382D?style=flag-square&logo=Redis&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JQuery-0769AD?style=flag-square&logo=jQuery&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flag-square&logo=HTML5&logoColor=white)
 
 * Java
 * Spring
