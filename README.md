@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/MyBadge-blue)
+![Static Badge](https://img.shields.io/badge/Email-4285F4?style=flag-square&logo=Google&logoColor=white)
 
 
 ---
