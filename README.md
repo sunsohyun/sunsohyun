@@ -39,7 +39,7 @@
 ![Static Badge](https://img.shields.io/badge/JQuery-0769AD?style=flag-square&logo=jQuery&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flag-square&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flag-square&logo=CSS3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flag-square&logo=JavaScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flag-square&logo=JavaScript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flag-square&logo=MySQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Oracle-F80000?style=flag-square&logo=Oracle&logoColor=white)
 
