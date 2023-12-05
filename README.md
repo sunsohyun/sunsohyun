@@ -28,45 +28,36 @@
 
 ---
 
-### :망치와_곡괭이: 보유 기술 (카테고리 나눠서 하는것이 좋아보임 - 변경하기)
-
-
-
-
-
-
-
-
-
-
-
-
-
+### ⚒: 보유 기술
 
 **Front-End**
 - ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flag-square&logo=HTML5&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flag-square&logo=CSS3&logoColor=white)
-- Ajax
+- ![Static Badge](https://img.shields.io/badge/AJAX-blue?style=flag-square&logo=ajv&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flag-square&logo=JavaScript&logoColor=black)
 - ![Static Badge](https://img.shields.io/badge/JQuery-0769AD?style=flag-square&logo=jQuery&logoColor=white)
-- Json
+- ![Static Badge](https://img.shields.io/badge/json-6DB33F?style=flag-square&logo=JSON&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/SpringDataJPA-E34F26?style=flag-square&logo=HTML5&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/JSP-black?style=flag-square&logo=CoffeeScript&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/JSTL-DC382D?style=flag-square)
-  
-**Collaboration & Tools**
-- Eclipse
-- ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flag-square&logo=Spring&logoColor=white)
-- ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flag-square&logo=Spring&logoColor=white)
-- Android Studio
-- Mybatis
-- Git, GitHub
-- VsCode
-- ![Static Badge](https://img.shields.io/badge/Redis-DC382D?style=flag-square&logo=Redis&logoColor=white)
-  
+
 **Back-End**
 - ![Static Badge](https://img.shields.io/badge/JAVA-DC382D?style=flag-square&logo=CoffeeScript&logoColor=white)
   
+**Collaboration & Tools**
+![Static Badge](https://img.shields.io/badge/Eclipse-2C2255?style=flag-square&logo=EclipseIDE&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flag-square&logo=Spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flag-square&logo=SpringBoot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/androidstudio-6DB33F?style=flag-square&logo=androidstudio&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Mybatis-black?style=flag-square&logo=bower&logoColor=white)
+![Static Badge](https://img.shields.io/badge/visualstudiocode-blue?style=flag-square&logo=visualstudiocode&logoColor=white)
+![Static Badge](https://img.shields.io/badge/intellijidea-black?style=flag-square&logo=intellijidea&logoColor=white)
+  
 **DevOps**
-- ![Static Badge](https://img.shields.io/badge/Oracle-F80000?style=flag-square&logo=Oracle&logoColor=white)
-- ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flag-square&logo=MySQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-6DB33F?style=flag-square&logo=github&logoColor=black)
+![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=flag-square&logo=MYSQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Oracle-red?style=flag-square&logo=Oracle&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Gradle-black?style=flag-square&logo=Gradle&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Maven-red?style=flag-square&logo=apachemaven&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redis-red?style=flag-square&logo=Redis&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-blue?style=flag-square&logo=Docker&logoColor=white)
