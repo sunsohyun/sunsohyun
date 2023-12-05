@@ -21,7 +21,7 @@
 
 ### 참여 프로잭트
 1. .[Spring 프레임워크 기반 웹 프로젝트](https://github.com/kimjeonggeon/korail)
-2. .[의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트](https://github.com/jonghechoi?tab=projects)
+2. .[의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트](https://github.com/users/jonghechoi/projects/1)
 
 
 
