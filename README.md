@@ -5,10 +5,10 @@
 ---
 
 ### 🤗 저를 소개합니다!
-배움의 열정이 넘치는 주니어 개발자.  <br>
-커뮤니티에서 활발한 참여로 지식을 나누며,   <br>
-팀과의 소통과 협업에 열중하는 개발자입니다. <br>
-항상 새로운 도전을 즐기며 끊임없는 성장을 추구하고 있습니다. <br>
+  배움의 열정이 넘치는 주니어 개발자.  <br>
+  커뮤니티에서 활발한 참여로 지식을 나누며,   <br>
+  팀과의 소통과 협업에 열중하는 개발자입니다. <br>
+  항상 새로운 도전을 즐기며 끊임없는 성장을 추구하고 있습니다. <br>
 
 ---
 
@@ -20,8 +20,8 @@
 ---
 
 ### 💻 참여 프로잭트
-1. .[Spring 프레임워크 기반 웹 프로젝트](https://github.com/kimjeonggeon/korail)
-2. .[의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트](https://github.com/users/jonghechoi/projects/1)
+1. [Spring 프레임워크 기반 웹 프로젝트](https://github.com/kimjeonggeon/korail)
+2. [의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트](https://github.com/users/jonghechoi/projects/1)
 
 
 
