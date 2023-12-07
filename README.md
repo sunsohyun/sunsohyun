@@ -45,7 +45,8 @@
 **Back-End**
 
 
-![Static Badge](https://img.shields.io/badge/JAVA-DC382D?style=flag-square&logo=CoffeeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JAVA-6DB33F?style=flag-square&logo=CoffeeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JPA-f8f8d9?style=flag-square&logo=CoffeeScript&logoColor=white)
   
 **Collaboration & Tools**
 
