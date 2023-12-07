@@ -34,19 +34,18 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flag-square&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flag-square&logo=CSS3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/AJAX-blue?style=flag-square&logo=ajv&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flag-square&logo=JavaScript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/JQuery-0769AD?style=flag-square&logo=jQuery&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AJAX-blue?style=flag-square&logo=ajv&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/json-6DB33F?style=flag-square&logo=JSON&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SpringDataJPA-E34F26?style=flag-square&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JSP-black?style=flag-square&logo=CoffeeScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JSTL-DC382D?style=flag-square)
 
 **Back-End**
 
 
-![Static Badge](https://img.shields.io/badge/JAVA-6DB33F?style=flag-square&logo=CoffeeScript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JPA-f8f8d9?style=flag-square&logo=CoffeeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JAVA-CC0000?style=flag-square&logo=CoffeeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SpringDataJPA-E34F26?style=flag-square&logo=CoffeeScript&logoColor=white)
   
 **Collaboration & Tools**
 
